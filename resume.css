@@ -1,0 +1,33 @@
+body {font-family: Calibri;
+	font-size: 12px;
+}
+
+header {text-align: center;
+		margin: 25px;
+}
+
+#name {font-size: 18px;
+		font-weight: bold;
+}
+
+#address {font-size: 14px;
+}
+
+#email {font-size: 12px;
+}
+
+div {margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	text-align: center;
+	background-color: black;
+	height: 1px;
+	width: 800px;
+}
+
+h1 {margin: 10px;
+	font-size: 14;
+	font-weight: bold;
+	font-style: italic;
+}
+
